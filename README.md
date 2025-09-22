@@ -1,4 +1,4 @@
-# AgenticAI
+# AgenticAI (Workflow Project)
 
 A collection of **LangGraph**, **LangChain**, and **Groq-powered AI agent demos** exploring different agentic patterns—from simple chatbots to multi-agent orchestration with human-in-the-loop support and MCP-based tool integration.
 
@@ -68,5 +68,6 @@ A collection of **LangGraph**, **LangChain**, and **Groq-powered AI agent demos*
   - **Writer** → produces a final structured report.
   - **Supervisor** → decides which agent acts next.
 - Produces a **final executive report**:
+
 
 
