@@ -67,7 +67,8 @@ A collection of **LangGraph**, **LangChain**, and **Groq-powered AI agent demos*
   - **Analyst** → interprets research and extracts insights.
   - **Writer** → produces a final structured report.
   - **Supervisor** → decides which agent acts next.
-- Produces a **final executive report**:
+- Produces a **final executive report**
+
 
 
 
